@@ -1,0 +1,8 @@
+Keyalgo
+
+Hi, I need to know what kind of input do I need to give as a "secret code" for the attached binary. It needs to print out:
+tHisi5aflA9takei7
+
+But I can't make it work! Could you help me out?
+
+Flag format: xctf{secretcodehere}
