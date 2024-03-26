@@ -1,8 +1,11 @@
-AUTHOR: NGIRIMANA SCHADRACK
+# picoCTF 2024
 
-Description
-Can you handle APKs?
-Download the android apk here.
+## Mob Psycho
+
+> Can you handle APKs?
+> </br> Download the android apk [`here`](mobpsycho.apk).
+>
+> Author: NGIRIMANA SCHADRACK
 
 
 # solution
